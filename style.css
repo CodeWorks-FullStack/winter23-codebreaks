@@ -1,0 +1,19 @@
+.hero{
+  height: 80vh;
+  align-items: flex-end;
+  justify-content: center;
+
+  background: url(https://media4.giphy.com/media/Run9VruCW6tg8lighU/giphy.gif) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top left;
+
+}
+.glass-card{
+  background-color: rgba(0, 0, 0, 0.306);
+  border-radius: 10px;
+}
+
+.glass-card h1{
+  color: aliceblue;
+}
